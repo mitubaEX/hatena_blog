@@ -92,10 +92,10 @@ PLC(Power Line Communications：電力線搬送通信) -> 電力線に情報信�
 ### No.45
 DSP -> 積和演算が得意らしい
 
-### No.46
-
 
 ### No.47
+システムLSI -> 複数のLSIをまとめたチップ
+
 ### No.48
 ### No.49
 ### No.50
